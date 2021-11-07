@@ -32,4 +32,6 @@ We design and develop complete application including the front-end, Web APIs des
 
 •	Risks – We plan to use Kite Connect REST APIs to obtain live market data, manage portfolios. If these APIs become unavailable or chargeable then our project would be at risk.
 
+---OSSE Assignement 4 Updates----
+Manoj PLease Ignore
 
